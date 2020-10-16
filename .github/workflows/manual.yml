@@ -12,5 +12,5 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API}}
           heroku_app_name: "dash-plotly2"
-          heroku_email: "your e-mail address associated with Heroku"
+          heroku_email: "tuanmanh@gmail.com"
           usedocker: true
